@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'CANplay'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7302AF55465648BCADFBDC478E43C6E5 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F27F50A49660415C8DBB4148D5B6FB8D }}
